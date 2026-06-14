@@ -1,6 +1,6 @@
-# Machine Learning & Django Portfolio
+# Portfolio Projects Index
 
-This repository is now a clean index for my main portfolio projects. I separated the strongest projects into individual public repositories so reviewers can open each one directly and see a focused README, code, notebooks, and data files.
+This repository is a clean index for my main portfolio projects. I separated the strongest projects into individual public repositories so reviewers can open each one directly and see a focused README, code, notebooks, and data files.
 
 ## Recommended Projects
 
